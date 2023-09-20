@@ -2,5 +2,5 @@
 
 echo "Hola";
 
-
+echo "adios";
 ?>
